@@ -42,9 +42,15 @@ main{
     
 }
 
-main>iframe{
-    padding-bottom: 20px;
-    padding-right: 15px;
+.video{
+    position: relative;
+    padding-bottom: 56%;
+    margin-bottom: 30px;
+}
+.video>iframe{
+    position: absolute;
+    width:90%;
+    
     
 }
 
